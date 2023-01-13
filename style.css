@@ -1,0 +1,17 @@
+.header {
+    text-align: center;
+}
+.container {
+    text-align: center;
+}
+#todo {
+    width:80%;
+}
+#button {
+    width:10%;
+}
+li {
+    list-style-type: none;
+    padding-left:30px;
+    width:100%;
+}
